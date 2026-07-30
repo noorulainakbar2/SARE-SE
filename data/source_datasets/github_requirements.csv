@@ -1,0 +1,41 @@
+id,requirement_text,source
+G1,The system shall provide personalized movie recommendations based on content similarity.,GitHub
+G2,The system shall allow users to search for movies by title.,GitHub
+G3,The system shall calculate similarity scores between movies.,GitHub
+G4,The system shall display recommended movies through a web interface.,GitHub
+G5,The system shall support deployment through a cloud-based hosting environment.,GitHub
+G6,The system shall preprocess movie datasets before recommendation analysis.,GitHub
+G7,The system shall maintain a similarity matrix for recommendation generation.,GitHub
+G8,The application shall support interactive user input for movie selection.,GitHub
+G9,The system shall support secure API-based communication.,GitHub
+G10,The system shall support scalable cloud-based processing for trading signal analysis.,GitHub
+G11,The system shall calculate financial risk using Monte Carlo simulation.,GitHub
+G12,The system shall process user requests through AWS Lambda functions.,GitHub
+G13,The application shall provision scalable cloud services using AWS EMR.,GitHub
+G14,The system shall support configuration management through cloud APIs.,GitHub
+G15,The system shall provide risk analysis results to users through a web interface.,GitHub
+G16,The system shall support reusable cloud infrastructure resources.,GitHub
+G17,The application shall monitor cloud execution performance and cost efficiency.,GitHub
+G18,The system shall securely manage cloud credentials and configurations.,GitHub
+G19,The pizza ordering system shall allow customers to order multiple pizzas.,GitHub
+G20,The system shall calculate the total order price in Euros and US dollars.,GitHub
+G21,The application shall maintain a shopping cart for customer orders.,GitHub
+G22,The system shall collect delivery addresses and customer contact details.,GitHub
+G23,The application shall support at least eight pizza menu options.,GitHub
+G24,The system shall display the final order summary before confirmation.,GitHub
+G25,The application shall support frontend interaction using ReactJS.,GitHub
+G26,The backend system shall manage pizza order processing workflows.,GitHub
+G27,The application shall support persistent order storage using a database system.,GitHub
+G28,The system shall validate customer input before order confirmation.,GitHub
+G29,The vehicle rental system shall calculate rental costs based on rental duration.,GitHub
+G30,The system shall calculate insurance costs for rented vehicles.,GitHub
+G31,The application shall support multiple vehicle categories including cars and motorcycles.,GitHub
+G32,The system shall generate invoices for completed rentals.,GitHub
+G33,The application shall calculate insurance discounts based on business rules.,GitHub
+G34,The system shall collect customer rental information through user input.,GitHub
+G35,The application shall support object-oriented vehicle management operations.,GitHub
+G36,The system shall print detailed rental summaries for customers.,GitHub
+G37,The application shall support secure server configuration management.,GitHub
+G38,The system shall support firewall configuration and network protection.,GitHub
+G39,The application shall support secure remote access through SSH.,GitHub
+G40,The system shall support load balancing for web infrastructure services.,GitHub
