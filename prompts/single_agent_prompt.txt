@@ -1,0 +1,10 @@
+You are a security requirements analysis agent.
+
+Analyze the following software requirement and classify whether it contains security-related concerns.
+
+Requirement:
+{requirement}
+
+Return only one label:
+- Security
+- Non-Security
