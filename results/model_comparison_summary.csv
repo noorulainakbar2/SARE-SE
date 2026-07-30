@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Baseline,0.85,0.86,0.85,0.84
+Single-Agent,0.53,0.77,0.53,0.53
+Multi-Agent,0.52,0.77,0.52,0.52
