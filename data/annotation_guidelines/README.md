@@ -1,10 +1,10 @@
 # Annotation Guidelines
 
-This folder contains the annotation guidelines used to label the requirements in the SARE-SE dataset.
+This folder contains the annotation guidelines used for manually annotating and validating the requirements in the SARE-SE evaluation dataset.
 
 ## Security Categories
 
-The requirements were classified into the following security categories:
+Requirements were classified into one of the following security categories:
 
 - Authentication
 - Authorization
@@ -15,21 +15,22 @@ The requirements were classified into the following security categories:
 
 ## Complexity Levels
 
-Each requirement was also assigned one of the following complexity levels:
+Each requirement was assigned one of the following complexity levels:
 
 - Simple
 - Moderate
 - Complex
 
-## Annotation Process
+## Annotation Procedure
 
-The requirements were reviewed and assigned gold labels for security category and complexity.
+- Requirements were manually reviewed.
+- Gold labels were assigned for both security category and complexity.
+- Ambiguous cases were manually verified to ensure consistency.
+- The final annotations were used as the reference labels for evaluation.
 
-Ambiguous requirements were manually checked to improve consistency.
+## Reference Standards
 
-## Reference Frameworks
-
-The annotation process was informed by recognised security frameworks and resources, including:
+The annotation process was informed by the following security resources:
 
 - OWASP
 - CWE
