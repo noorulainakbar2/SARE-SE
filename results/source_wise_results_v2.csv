@@ -1,0 +1,4 @@
+Source,Requirements,Accuracy,Precision,Recall,F1-Score
+Dronology,15,0.13,1.0,0.13,0.24
+GitHub,40,0.88,0.89,0.88,0.86
+PURE,345,0.8,0.82,0.8,0.8
