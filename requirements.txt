@@ -1,1 +1,3 @@
-# To be updated
+openai
+pandas
+scikit-learn
