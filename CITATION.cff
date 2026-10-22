@@ -1,1 +1,25 @@
-# To be updated
+
+cff-version: 1.2.0
+message: "If you use this repository in your research, please cite this work."
+
+title: "Security-Aware Agentic Requirements Engineering for Early-Stage Security Analysis of Software Requirements Using Large Language Models"
+
+type: software
+
+authors:
+  - family-names: "Akbar"
+    given-names: "Noor ul Ain"
+    affiliation: "Edith Cowan University"
+
+  - family-names: "Mohsin"
+    given-names: "Ahmad"
+    affiliation: "Edith Cowan University"
+
+keywords:
+  - Requirements Engineering
+  - Security Requirements
+  - Multi-Agent Systems
+  - Large Language Models
+  - SARE-SE
+
+
