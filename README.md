@@ -1,4 +1,4 @@
-# Security-Aware Agentic Requirements Engineering for Early-Stage Security Analysis of Software Requirements Using Large Language Models (SARE-SE)
+<img width="1824" height="616" alt="image" src="https://github.com/user-attachments/assets/e5aa1e4b-b069-4b05-80bb-f026e80f6520" /># Security-Aware Agentic Requirements Engineering for Early-Stage Security Analysis of Software Requirements Using Large Language Models (SARE-SE)
 
 This repository accompanies the research paper:
 
@@ -63,7 +63,7 @@ An additional script, `src/multi_agent_refined.py`, provides an alternative work
 The repository is organised as follows:
 
 - `src/` — Python scripts for classification and evaluation.
-- `data/processed_dataset/` — Processed datasets and gold-labelled requirements.
+- `data/processed_dataset/` — Processed datasets and heuristically generated reference labels.
 - `data/annotation_guidelines/` — Annotation documentation.
 - `prompts/` — Prompt-related materials.
 - `results/` — Saved experimental results and evaluation outputs.
