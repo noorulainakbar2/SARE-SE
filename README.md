@@ -77,7 +77,6 @@ The repository is organised as follows:
 | `src/single_agent_full.py` | Single-agent LLM-based security classification |
 | `src/multi_agent_full.py` | RS-MAP classification and verification |
 | `src/multi_agent_refined.py` | Alternative multi-agent implementation with conditional refinement |
-| `src/evaluate_models.py` | Comparative evaluation script |
 | `src/evaluate_multi_agent_v2.py` | Evaluation of saved multi-agent security predictions |
 
 ## 5. Datasets and Experimental Results
